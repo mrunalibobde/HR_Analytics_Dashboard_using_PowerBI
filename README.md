@@ -1,7 +1,7 @@
-# -HR_Analytics_Dashboard_using_PowerBI
+# HR_Analytics_Dashboard_using_PowerBI
 The HR Analytics project aims to leverage Power BI to gain valuable insights from the human resources data within an organization. The project will focus on analyzing various HR metrics, such as employee turnover, performance, recruitment effectiveness, and diversity, among others. By visualizing these key metrics, the HR team and stakeholders can make data-driven decisions to improve employee satisfaction, streamline processes, and optimize workforce management.
 
-# Objective:
+# Objective
 Help an organization improve employee performance and improve employee retention (reduce attrition) by creating an HR Analytics dashboard.
 
 #
@@ -15,7 +15,7 @@ I have used Bar charts, Donut charts, cards, Column charts, Area charts, and Sli
 - Card: A simple visual that displays a single value or measure as a labeled card.
 - Slicer: It is a powerful interactive visual element that allows users to filter and slice data in a report or dashboard.
 
-# Final Insights:
+# Final Insights
 1. Maximum attrition happening in the age group of 26 to 35.
 2. Maximum attrition happens in Life Sciences Education i.e. 38% and Laboratory Technician as job role.
 3. Maximum attrition after the lower rate of salary hike.
